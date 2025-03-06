@@ -30,7 +30,7 @@ p {
     background: rgb(0, 60, 9);
     height: 300px;
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     font-family: "Doto", serif;
 }
 
@@ -39,6 +39,8 @@ p {
     height: 50px;
     flex-direction: row;
     display: flex;
+    position: fixed;
+    width: 100%;
 }
 
 .naviButton {
